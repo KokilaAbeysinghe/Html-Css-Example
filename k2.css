@@ -1,0 +1,90 @@
+
+}@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0px;
+	background-color:#2B0000;
+}
+.MainTable {
+	background-color:#003;
+	color:#FFF;
+	font-size : 24px;
+	font-weight:200;
+	font-family: Arial, Times, "Times New Roman", serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing:4px;
+}
+.MainTable1 {
+	
+	color:#FFF;
+	font-size : 24px;
+	font-weight:200;
+	font-family: Arial, Times, "Times New Roman", serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing:4px;
+}
+.MainMenu, .MainMenu {
+	font-family: Arial;
+	font-size: 14px;
+	letter-spacing: 2px;
+	color: #FFF;
+	background-color:#333;
+	font-weight: bold;
+	text-decoration: none;
+	width:200px;
+}
+
+
+	
+.Row1Text {
+	background-color:#003;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size:16px;
+	
+}
+.Sub1 {
+	font:"Courier New", Courier, monospace;
+	font-size:12px;
+	font-style:normal;
+	color:#FFF;
+	font-weight:100;
+	letter-spacing:normal;
+	
+	
+}
+.RightImg{
+	width:400px;
+	height:300px;
+}
+.RightImg:hover{
+	width:400px;
+	height:300px;
+}
+	
+a.a1:link{color:#fff; text-decoration:none}
+a.a1:visited{color:#fff; text-decoration:none}
+a.a1:hover{color:#fff; text-decoration:none}
+a.a1:active{color:#fff;  text-decoration:none}
+
+
+.panal{
+	margin-bottom:1px;
+	margin-left:30px;
+	margin-right:2px;
+	margin-top:0px;
+	border:1px;
+	width:40px;
+	height:40px;
+	display:inline;
+	float:left;
+	z-index:1px;
+	background-color:#FFF;}
+	
+	
+.imageborder{
+	border-color:#000;
+	border-style:groove;
+}

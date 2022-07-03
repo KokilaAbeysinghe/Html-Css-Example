@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 2px;
+	background-color: #333;
+}
+.Topic{
+	color :#FFF;
+	font-size : 24px;
+	font-family:"Times New Roman", Times, serif;
+	font-weight: bold;
+}
+.Paragraph{
+	color:#fff ;
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:normal;
+}
+
+.MainTable1 {
+	
+	color:#FFF;
+	font-size : 24px;
+	font-weight:200;
+	font-family: Arial, Times, "Times New Roman", serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing:4px;
+}
+a.a1:link{color:#fff; text-decoration:none}
+a.a1:visited{color:#fff; text-decoration:none}
+a.a1:hover{color:#fff; text-decoration:none}
+a.a1:active{color:#fff;  text-decoration:none}
+
+.panal{
+	margin-bottom:1px;
+	margin-left:30px;
+	margin-right:2px;
+	margin-top:0px;
+	border:1px;
+	width:40px;
+	height:40px;
+	display:inline;
+	float:left;
+	z-index:1px;
+	background-color:#FFF;}
